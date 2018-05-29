@@ -1,7 +1,8 @@
 /*
-    Name: Rijoanul Hasan
-    ID  : 152-15-572
-    Lab : 01
+    Name    :   Rijoanul Hasan
+    ID      :   152-15-572
+    Lab     :   01
+    Task    :   BFS
 */
 
 #include <bits/stdc++.h>
